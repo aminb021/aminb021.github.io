@@ -13,11 +13,18 @@ redirect_from:
 
 Hi👋
 
-I’m Shahriar. I love programming and learning new things with high motivation. I’m very interested in working either in person or remotely. Currently, I am learning and entering the world of machine learning
+This is Amin Bagheri, an M.Sc. student in Software Engineering at the Computer Science and Engineering Faculty, Shahid Beheshti University, Tehran, Iran. He received his B.Sc. degree from Shahid Rajaee University, Tehran, Iran, in 2019. He is currently working on automating the translation of high-level security requirements for cloud users into an optimal placement model.
+
+His research interests include:
+- Cloud Computing
+- NFV
+- VM/VNF Placement In Cloud
+- Network science
 
 
 # 📖 Educations
-- **B.Sc. in Computer Engineering**, [University of Birjand](https://birjand.ac.ir), Birjand, Iran. *2020 - Present* 
+- **M.Sc. in Software Engineering**, Shahid Beheshti University, Tehran, Iran. *2020 - Present* 
+- **B.Sc. in Software Engineering**, Shahid Rajaee University, Tehran, Iran. *2015 - 2019* 
 
 
 # 💪 Skills

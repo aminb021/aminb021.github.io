@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shahriar Ghasempour"
+title                    : "Amin Bagheri"
 description              : ""
-repository               : "RayeRen/shahriaarrr.github.io"
+repository               : "aminb021/minb021.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shahriar ghasempour"
+  name             : "Amin Bagheri"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "B.Sc. Student in Computer Engineering at University of Birjand"
-  location         : "Mashhad, Iran"
+  bio              : "M.Sc. Student in Software Engineering at Shahid Beheshti University"
+  location         : "Tehran, Iran"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "shahriaarrr@gmail.com"
+  email            : "aminbagheri021@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shahriaarrr"
+  github           : "aminb021"
   google_plus      :
   keybase          :
-  instagram        : "shahriaarrr12"
+  instagram        : "aminb_021"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shahriaarrr"
+  linkedin         : "aminbagheri021"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
